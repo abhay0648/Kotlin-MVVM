@@ -5,7 +5,7 @@
 Kotlin
 MVVM architecture
 Reactive pattern
-Android architecture components and Jetpack
+Android architecture components and Koin
 Single activity
 Dependency injection
 
