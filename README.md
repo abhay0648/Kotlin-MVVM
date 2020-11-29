@@ -9,6 +9,7 @@ Android architecture components and Jetpack
 Single activity
 Dependency injection
 
+
 # Tech Stacks
 
 Retrofit - RESTful API and networking client.
@@ -21,7 +22,8 @@ RxJava - Asynchronous programming with observable streams.
 RxAndroid - Load that stream to UI thread that available on android.
 Glide - Image loading.
 
-#Architectures
+
+# Architectures
 
 View: Activity with UI-specific logics only.
 ViewModel: It keeps the logic away from View layer, provides data streams for UI and handle user interactions.
