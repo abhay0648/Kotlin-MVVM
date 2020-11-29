@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <string name="original_title">Original Title:\n</string>
+    <string name="popularity">Popularity\n</string>
+    <string name="status">Status: </string>
+    <string name="release_date">Release Date: </string>
+    <string name="runtime">Runtime: </string>
+    <string name="hrs">Hrs </string>
+    <string name="mins">Mins</string>
+    <string name="original_language">Original Language: </string>
+    <string name="overview">Overview:</string>
+    <string name="genre">Genre:</string>
+    <string name="vote_average">Vote Average\n</string>
+
+    <string name="book_movie">Book</string>
+
+    <string name="no_internet">Please Enable internet</string>
+    <string name="something_wrong">Oops something went wrong please try again later</string>
+
+</resources>
+
