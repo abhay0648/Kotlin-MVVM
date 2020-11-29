@@ -1,6 +1,6 @@
 # FaveProject
 
-#Feature 
+# Feature 
 
 Kotlin
 MVVM architecture
@@ -9,7 +9,7 @@ Android architecture components and Jetpack
 Single activity
 Dependency injection
 
-#Tech Stacks
+# Tech Stacks
 
 Retrofit - RESTful API and networking client.
 Koin - Dependency injection.
