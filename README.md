@@ -30,4 +30,4 @@ ViewModel: It keeps the logic away from View layer, provides data streams for UI
 Model: Repository pattern, data layers that provide interface to manipulate data from the remote data sources.
 
 
-# Build with Android X new library and meterial view
+# Build with Android X new library and material view
